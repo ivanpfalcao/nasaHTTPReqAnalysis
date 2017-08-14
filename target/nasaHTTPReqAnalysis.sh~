@@ -1,0 +1,7 @@
+spark-submit \
+  --class com.ivanpfalcao.scala.App \
+  --master local[1] \
+  --executor-memory 4G \
+  --total-executor-cores 1 \
+  ./nasaHTTPReqAnalysis-1.0-SNAPSHOT.jar \
+  "/root/IdeaProjects/nasaHTTPReqAnalysis/conf/nasa.conf"
