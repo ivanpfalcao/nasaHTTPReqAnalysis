@@ -7,6 +7,7 @@ Pré-requisitos:
 - Distribuição Linux compatível com Apache Spark;
 - Java JDK 8 ou superior;
 - Apache Spark v1.6.0 ou superior.
+- Apesar de não ser obrigatório, recomenda-se a execução em um ambiente Cloudera compatível (CDH 5 ou superior)
 
 
 Execução:
