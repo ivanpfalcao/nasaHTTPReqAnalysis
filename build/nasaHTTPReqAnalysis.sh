@@ -6,3 +6,4 @@ spark-submit \
   --total-executor-cores 1 \
   ./nasaHTTPReqAnalysis.jar \
   "./nasa.conf"
+  
